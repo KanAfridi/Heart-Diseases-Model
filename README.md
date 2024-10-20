@@ -20,3 +20,15 @@ myvenv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+
+### Commiting And Pushing Github Repo
+
+```
+git add . # to add all the file in this folder
+```
+```
+git commit -m "commit first"
+```
+```
+git push origin main # then push all the code and file to main origin
+```
